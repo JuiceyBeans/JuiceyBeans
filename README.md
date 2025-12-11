@@ -2,7 +2,4 @@
 <hr>
 
 - 🏳️‍🌈 Pronouns: she/her 🏳️‍⚧️
-- 🧐 Currently working on [GregTech Modern](https://github.com/GregTechCEu/GregTech-Modern) and Wrathful (submission for NeoForge Serverside Summer Modjam)!
-- 🌱 Learning Rust and C#!
-- 💬 Got questions about Minecraft modding? Ask me (mostly) anything!
-- 📫 Reach me via @JuiceyBeans on Discord!
+- 📫 Reach me via @JuiceyBeans on Discord
